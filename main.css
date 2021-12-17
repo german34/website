@@ -1,7 +1,14 @@
-.header {
+/* .header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: black;
   font-size: 30px;
+}*/
+
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
 }
