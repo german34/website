@@ -1,5 +1,5 @@
 ## German Villalobos
-
+### Data Analyst / Data Scientist
 
 Obtained a Ph. D. in applied mathematics from the Department of Mathematics of the University of Houston. On this page you can find my contact information. CV/Resume will be added in the near future as well as other academic/research information.
 
