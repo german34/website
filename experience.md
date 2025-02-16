@@ -27,6 +27,7 @@ _January 2020 – December 2023_
 - Implemented performance metrics such as time series-based metrics, scoring functions (e.g., R², MSE), and cross-validation to assess and optimize model accuracy and generalization.
 
 **Teaching Assistant** 
+
 _September 2018 – December 2022_
 
 - Facilitated workshops and tutoring sessions for varied class sizes, tailoring instruction to engage students and improve comprehension in several math subjects like Calculus and Differential Equations.
