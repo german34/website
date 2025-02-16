@@ -31,10 +31,11 @@ _September 2018 – December 2022_
 - Collaborated with professors and provided individualized support, fostering effective communication and problem-solving to improve student learning outcomes.
 
 
-
+<!--
 ### Contact Information
 - Primary Email: german.villalobos0@gmail.com
 - Secondary Email: german.villalobos.cye@gmail.com
 - Linkedin: [https://www.linkedin.com/in/german-villalobos/](https://www.linkedin.com/in/german-villalobos)
+->>
 
 

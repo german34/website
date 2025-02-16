@@ -30,8 +30,10 @@ layout: default
 - **Introduction to Bioinformatics and NGS Data Analysis** - *HPE Data Science Institute*
 
 
+<!--
 ### Contact Information
 - Primary Email: german.villalobos0@gmail.com
 - Secondary Email: german.villalobos.cye@gmail.com
 - Linkedin: [https://www.linkedin.com/in/german-villalobos/](https://www.linkedin.com/in/german-villalobos)
+-->
 
