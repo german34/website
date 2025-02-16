@@ -6,6 +6,7 @@ layout: default
 
 ## Layher Scaffolding – Houston, TX
 **Data Analyst**  
+
 _May 2023 – Current_
 
 - Led comprehensive analysis of rental, sales, and logistics data using stress testing, scenario analysis, and data mining to uncover key trends, risks, and optimization opportunities that shaped operational policies.
@@ -17,6 +18,7 @@ _May 2023 – Current_
 ## University of Houston – Houston, TX
 
 **Research Assistant**  
+
 _January 2020 – December 2023_
 
 - Applied inference and machine learning techniques for parameter estimation of the FitzHugh-Nagumo ODE system, implementing classical deterministic methods, including adjoint-based approximations.
