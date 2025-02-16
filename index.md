@@ -14,6 +14,5 @@ I am a detail-oriented Data Analyst/Scientist with a proven track record of anal
 - Houston, TX, 77204-3008
 - Primary Email: german.villalobos0@gmail.com
 - Secondary Email: german.villalobos.cye@gmail.com
-- Linkedin: To add
-
+- Linkedin: https://www.linkedin.com/in/german-villalobos/
 
