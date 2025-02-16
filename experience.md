@@ -18,6 +18,7 @@ _May 2023 – Current_
 
 **Research Assistant**  
 _January 2020 – December 2023_
+
 - Applied inference and machine learning techniques for parameter estimation of the FitzHugh-Nagumo ODE system, implementing classical deterministic methods, including adjoint-based approximations.
 - Developed and tested artificial neural networks (dense and convolutional) using Keras/TensorFlow, benchmarking their performance against traditional parameter estimation techniques.
 - Integrated research code with external high-performance infrastructure (Cerebras network/servers), leveraging CPU/GPU resources.

@@ -4,6 +4,11 @@ layout: default
 
 ## Education 
 
+## UNIVERSITY OF HOUSTON - Houston, TX
+PhD in Applied Mathematics
+
+## UNIVERSITY OF HOUSTON-DOWNTOWN - Houston, TX
+Bachelor of Science, Applied Mathematics and Computer Science
 
 
 
