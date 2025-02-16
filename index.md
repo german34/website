@@ -8,7 +8,7 @@ I am a detail-oriented Data Analyst/Scientist with a proven track record of anal
 
 
 
-
+* * * 
 
 ### Contact Information
 - Primary Email: german.villalobos0@gmail.com
