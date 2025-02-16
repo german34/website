@@ -33,6 +33,26 @@ _September 2018 – December 2022_
 - Facilitated workshops and tutoring sessions for varied class sizes, tailoring instruction to engage students and improve comprehension in several math subjects like Calculus and Differential Equations.
 - Collaborated with professors and provided individualized support, fostering effective communication and problem-solving to improve student learning outcomes.
 
+## Argonne National Laboratory
+
+**Research Assistant**
+
+_June 2017 - August 2017_
+
+- Designed numerical experiments for existing optimization programs involving the modeling of interaction between nuclear particles. 
+- Coded python scripts within a linux environment, troubleshooted code, and generated figures to study and visualize results.
+
+
+## Rice University
+
+**Research Assistant**
+
+_June 2015 - August 2015_
+
+- Cultured human embryonic stem cells (HESCs) and investigated the effects of media configurations on cell signaling pathways, leading to over a 10% increase in differentiation to mesendodermal cells.
+- Utilized immunofluorescence microscopy to analyze differentiation patterns.
+- Developed and implemented MATLAB scripts for advanced image analysis, assessing pluripotency through the evaluation of signaling pathway activation and inhibition.
+
 
 <!--
 ### Contact Information
