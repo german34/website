@@ -33,7 +33,6 @@ _September 2018 – December 2022_
 
 
 ### Contact Information
-- Houston, TX, 77204-3008
 - Primary Email: german.villalobos0@gmail.com
 - Secondary Email: german.villalobos.cye@gmail.com
 - Linkedin: [https://www.linkedin.com/in/german-villalobos/](https://www.linkedin.com/in/german-villalobos)
