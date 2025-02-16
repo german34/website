@@ -4,8 +4,7 @@ layout: default
 
 ## About / Summary 
 
-I am a detail-oriented Data Analyst/Scientist with a proven track record of analyzing complex datasets, developing Python solutions, and effectively communicating insights through data visualization tools. Experienced in collaborative problem-solving and adept at leveraging expertise in data analysis to contribute to strategic decision-making processes. Seeking opportunities to apply strong analytical skills and technical proficiency to drive innovation and success in data-driven environments. I obtained my Ph. D. in applied mathematics from the Department of Mathematics of the University of Houston. 
-
+I am a detail-oriented Data Analyst and Scientist with a strong track record in analyzing complex datasets, developing Python-based solutions, and translating insights into actionable strategies through data visualization. Skilled in collaborative problem-solving, I leverage my expertise in data analysis to support informed decision-making and drive innovation. With a Ph.D. in Applied Mathematics from the University of Houston, I bring a deep mathematical foundation and technical proficiency to data-driven challenges. I am eager to apply my analytical skills to impactful projects in dynamic environments.
  
 <!-- 
 * * * 
